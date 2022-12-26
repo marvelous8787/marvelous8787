@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Marvelous
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning on front end development with Meta
+- 💞️ I’m looking to collaborate on javascript
+- 📫 How to reach me ... chukwumacseed@gmail
